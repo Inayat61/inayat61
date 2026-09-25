@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-My Portfolio Website: https://www.inayat.eu/
-
 I’m a full-stack developer with 3 years of professional experience in Software Development. Currently, I’m part of an agile development team where I’m in charge of developing highly scalable and reliable applications using React.js, NextJS, TypeScript, NestJS, Java, Spring Boot, MongoDB, Hikri, Hibernate, MySQL, SQLYog, Jira, and Git.
 
 My tech stack comprises **JavaScript, TypeScript, React.js, Node.js, Express.js, Next.js 13, MongoDB, Java, Spring Boot, Microservices, AWS, AWS Api Gateway, AWS EC2, AWS S3, Hikri, Hibernate, Java Spring, Jira, MySQL, PL/SQL, Agile Methodologies, Git, Jira, Clickup, TDD, jQuery, HTML, CSS, CI/CD, REST API, SOAP**.
